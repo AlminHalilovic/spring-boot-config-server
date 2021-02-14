@@ -1,7 +1,7 @@
 # Spring Boot config server
 
 # To run the configuration server, simply use the command:
-> `.\gradlew bootRun`
+`.\gradlew bootRun`
 
 You can navigate here to see the properties for the demo:
 
