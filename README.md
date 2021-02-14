@@ -1,1 +1,1 @@
-# spring-boot-config-server
+# Spring Boot config server
